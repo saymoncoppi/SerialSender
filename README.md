@@ -5,7 +5,7 @@ This is simple script to send serial data from terminal using the ttyUSB
 Run as root or sudo!
 
 ./SerialSender.sh QTY \
-#Sample: ./SerialSender.sh 5
+#Example: ./SerialSender.sh 5
 
 ## Results
 
